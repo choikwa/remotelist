@@ -17,6 +17,7 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 
 || Site |   Details | API | Alexa Rank | * |                                                                                                  
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|--|
+| ❇️ | [We Work Remotely](https://weworkremotely.com/) | Jobs board aggregator. | | 42930 | 🌟|
 | ❇️ | [RemoteOK](https://remoteok.io/) | Jobs board aggregator. | [JSON](https://remoteok.io/remote-jobs.json)| 50,000 |🌟|
 | ❇️ | [Who Is Hiring](https://whoishiring.io) | Jobs board aggregator. | | 300,000 |🌟|
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | Jobs board aggregator. | | 400,000 |🌟|
